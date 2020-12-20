@@ -347,8 +347,6 @@ main {
 }
 
 .product--card_title {
-  position: relative;
-  margin-top: 30px;
   margin-bottom: 15px;
   font-size: 1.8rem;
   font-weight: bold;
@@ -357,7 +355,6 @@ main {
 }
 
 .product--card_body {
-  position: absolute;
   max-width: 400px;
   font-size: 1.4rem;
   font-weight: 500;
